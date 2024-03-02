@@ -1,0 +1,6 @@
+.title {
+    background-image: url("./public/image/title-background.PNG");
+    background-color: blue;
+    width: 100%;
+    height: 100px;
+}

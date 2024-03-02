@@ -1,6 +1,30 @@
-.title {
-    background-image: url("./public/image/title-background.PNG");
-    background-color: blue;
-    width: 100%;
-    height: 100px;
+#title,#contact-me {
+    /* background-image: url("./public/image/title-background.PNG"); */
+    background-color: lightblue;
+    /* width: 100%; */
+    /* height: 800px; */
+}
+h2{
+    font-family: YACkoC_IHiw-0 serif;
+    margin-left: 0em;
+    line-height: 1.38000176em;
+    text-transform: none;
+    letter-spacing: 0em;
+}
+p{
+    text-decoration-line: none;
+    color: #858c99;
+    font-style: normal;
+    font-weight: 400;
+    direction: ltr;
+    font-family: YAFcfipOFgg-0 sans-serif;
+    margin-left: 0em;
+    line-height: 1.4em;
+    text-transform: none;
+    letter-spacing: 0em;
+
+}
+#info{
+    bottom: 100px;
+    left:30%
 }
